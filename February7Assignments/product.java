@@ -1,3 +1,5 @@
+package February7Assignments;
+
 public class product{
     public static int result(int... numbers){
      int x = 1;
