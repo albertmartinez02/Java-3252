@@ -1,4 +1,4 @@
-// Jonpier Veliz
+// NAME AND FSUID: Jonpier Veliz jav20bn ; Albert Martinez aam20
 // Use a one-dimensional array to determine how many of the salespeople earned salaries in ranges
 
 public class SalesCommissions {
