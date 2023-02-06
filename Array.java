@@ -1,3 +1,4 @@
+// NAME AND FSUID: Jonpier Veliz jav20bn ; Albert Martinez aam20
 import java.security.SecureRandom; // Import SecureRandom class
 
 public class Array {
