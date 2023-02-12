@@ -22,7 +22,7 @@ public class DateAndTime {
     }
 
     public String toUniversalString(){
-        return String.format("Time %02d:%02d:%02d %d/%d/%d", time.getHour(), time.getMinute(), time.getSecond(),
+        return String.format("Time: %02d:%02d:%02d Date: %d/%d/%d", time.getHour(), time.getMinute(), time.getSecond(),
         date.getMonth(), date.getDay(), date.getYear());
     }
 }
